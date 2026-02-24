@@ -1,2 +1,17 @@
-# Autonomous-Navigation-PID-Simulations
-A collection of autonomous mobile robot simulations developed to understand PID control, waypoint navigation, obstacle avoidance strategies and behavior/state-machine based decision systems.
+# Autonomous Navigation PID Simulations
+
+This repository contains simulation studies developed to understand
+core algorithms used in autonomous mobile robots.
+
+## Implemented Concepts
+- PID Control
+- Robot Kinematics
+- Waypoint Tracking
+- Obstacle Avoidance
+- Local Path Planning
+- State Machine Logic
+
+## Technologies
+- Python
+- Matplotlib
+- Mathematical Modeling
